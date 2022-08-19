@@ -17,3 +17,10 @@ print(translation)
 #   \n sa-IN Sanskrit(India) 
 #   \n ta-IN Tamil(India) 
 #   \n te-IN Telugu(India)
+
+# from googletrans import Translator
+
+# translator = Translator()
+# translated = translator.translate('svízelná situace', src='cs', dest='hu')
+
+# print(translated.text)
